@@ -1,5 +1,6 @@
-# MPG_Converter-Python-Tkinter
-#Python script using tkinter GUI. Calculates the MPG upon user data entry
+#Python with Tkinter GUI MPG Converter
+
+
 import tkinter
 #Create the class
 class MilesGUI:
